@@ -6,6 +6,6 @@
 
 👉 For more information about the Allmaps project, see:
 - [allmaps.org](https://allmaps.org/)
-- [github.com/allmaps/allmaps](github.com/allmaps/allmaps)
+- [github.com/allmaps/allmaps](https://github.com/allmaps/allmaps)
 
 [![Allmaps Viewer](https://raw.githubusercontent.com/allmaps/allmaps/main/static/allmaps-viewer.jpg)](https://viewer.allmaps.org/?url=https%3A%2F%2Fannotations.allmaps.org%2Fmaps%2F9c4e14c0b9d41379)
