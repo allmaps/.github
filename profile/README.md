@@ -2,7 +2,7 @@
 
 # Allmaps
 
-100,000s of maps are available through [IIIF](https://iiif.io/), across libraries, archives and museums worldwide. Allmaps makes it easier and more inspiring to **curate, georeference and explore collections of digitized maps**.
+Millions of maps are available through [IIIF](https://iiif.io/), across libraries, archives and museums worldwide. Allmaps makes it easier and more inspiring to **curate, georeference and explore collections of digitized maps**.
 
 👉 For more information about the Allmaps project, see:
 - [allmaps.org](https://allmaps.org/)
